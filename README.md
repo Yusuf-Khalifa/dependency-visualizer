@@ -11,5 +11,5 @@
 
 1. Clone the repo
 2. Place a valid spark.yml in root directory
-3. run `generate.sh`
-4. profit?
+3. Run `generate.sh`
+4. Profit ?!
